@@ -1,0 +1,137 @@
+body{
+  background-color: #79a7d3;
+  position: relative;
+  bottom: 45px;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding-left: 0px;
+
+
+}
+.my_photo{
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 750px;
+  top: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  display: block;
+}
+img {
+  display: inline;
+  position: absolute;
+  right: -50px;
+  top: -5px;
+  margin: 0 0;
+  height: 600px;
+  width: auto;
+}
+.My_name{
+  position: absolute;
+  right: -180px;
+  top: -350px;
+  width: 800px;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  position: absolute;
+  right: 600px;
+  top: 0px;
+  font-size: 65px;
+}
+.my_skill{
+  position: absolute;
+  right: -80px;
+  top: -220px;
+  width: 600px;
+}
+button {
+  font-family: 'Merriweather Sans', sans-serif;
+  background-color: #79a7d3;
+  border: none;
+  color: black;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 0 0 3px white, 0 0 5px white;
+  display: inline-block;
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 50px;
+  border-radius: 24px;
+}
+.skip_to{
+  display: inline;
+}
+p{
+  display: inline-block;
+}
+button:hover {
+  background-color: #077b8a;
+}
+.main_body{
+  position: absolute;
+  bottom:-2250px;
+}
+.skip_to{
+  position: absolute;
+  top: 0px;
+}
+.profile{
+  position: relative;
+  right: -500px;
+  bottom: -350px;
+  width: 300px;
+}
+.left{
+  width: 400px;
+  background-color: blue;
+  height: 2250px;
+  margin-left: 0px;
+  margin-top: 0px;
+  padding-top: 0px;
+  position: absolute;
+  top: 0px;
+  background-color: #6883bc;
+}
+.right{
+  margin-left: 450px;
+
+
+}
+.contact{
+  padding-left: 30px;
+  padding-top: 720px;
+}
+.skill{
+  padding-left: 30px;
+}
+.work_in{
+  width: 500px;
+}
+.hat_image{
+  position: absolute;
+  top: 710px;
+  right: 200px;
+}
+.business{
+  position: absolute;
+  top: 1130px;
+  right: 170px;
+}
+.hobbies{
+  position: absolute;
+  top: 1430px;
+  right: 200px;
+}
+.certificate{
+  position: absolute;
+  top: 1615px;
+  right: 200px;
+}
+.plant{
+  position: absolute;
+  top: 1775px;
+  right: 200px;
+}
